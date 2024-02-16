@@ -1,0 +1,419 @@
+a {
+    text-decoration: none;
+    color: #0f0f0f;
+}
+
+#aside ul li a button{
+    font-size: 21px;
+    text-align: left !important;
+    padding-left: 1em;
+}
+
+#aside ul li a button i{
+    font-size: 21px;
+    margin-right: 5px;
+}
+
+#aside {
+    max-width: max-content;
+}
+
+#aside ul button {
+    width: 340px;
+    font-size: 20px;
+    height: 50px;
+}
+
+.prof {
+    max-width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.lg {
+    margin-left: 0.5em;
+}
+.lg img{
+    object-fit: cover;
+    border-radius: 50%;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.18) 0px 0.5px 4px;
+}
+
+
+
+.cover {
+    min-height: 80vh;
+}
+.cover ul li button {
+    background-color: white;
+}
+
+.cover ul li button:hover {
+    border-left: 4px solid #0f0f0f;
+    box-shadow: rgba(0, 0, 0, 0.18) 0px 0.5px 4px;
+}
+
+
+.hi {
+    border-left: 4px solid #f1b642;
+}
+
+
+.cover ul li {
+    margin-bottom: 0.5em;
+}
+
+.cover .pass_error{
+    margin-bottom: 0;
+}
+
+body {
+    background-color: #eeeeee;
+}
+
+.hi p {
+    font-size: 20px;
+}
+.hi {
+    width: 340px;
+    align-items: center;
+}
+.hi, .bar {
+    background-color: white;
+}
+
+.nome {
+    font-size: 20px;
+}
+
+
+.tmp{
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #0f0f0f;
+    margin-left: 10.7em;
+}
+
+.spec {
+    background-color: white;
+    margin-left: 5em;
+    height: 100%;
+}
+
+.outside {
+    width: 60%;
+  min-width: 40rem;
+}
+
+.save button {
+    background: #0f0f0f;
+    color: white;
+    padding: 0.4em 0.4em;
+    width: 200px;
+    font-weight: bold;
+    cursor: pointer;
+    height: 64px;
+}
+
+.stuf {
+    font-size: 20px;
+}
+label {
+    font-size: 20px;
+}
+
+.formData {
+    font-size: 20px;
+}
+
+.data input {
+    width: 256px;
+    height: 40px;
+}
+
+.save button{
+    font-size: 20px;
+}
+
+#balance-container{
+    background-color: white;
+    margin-left: 5em;
+    height: 100%;
+    width: 100%;
+    min-width: 40vh;
+
+}
+
+.payment-selection input, label {
+
+    margin:5px;
+}
+
+ul.payment-selection{
+    padding-left: 0;
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+
+.payment-selection label { font-size: 15px; }
+
+#balance-container input.form-control{
+    font-weight: bold;
+    flex: 0.5 1 auto;
+}
+
+#balance-container input.form-control:focus{
+    border: 1px solid black;
+}
+
+#balance-container img{
+    object-fit: cover;
+    box-shadow: none;
+    margin: auto;
+
+}
+
+.myAuctions #item-info p{
+    margin-bottom: 0;
+    font-size: 13px;
+}
+
+.myAuctions .row{
+    margin-bottom: 10px;
+
+}
+
+.myAuctions .col-9 .row{
+    margin-left: 15px;
+
+}
+
+.myAuctions .row img{
+    width: 140px;
+    height: 100px;
+    max-width: none;
+    object-fit: cover;
+}
+.myBids #item-info p{
+    margin-bottom: 0;
+    font-size: 13px;
+}
+
+.myBids .row{
+    margin-bottom: 10px;
+
+}
+
+.myBids .col-9 .row{
+    margin-left: 15px;
+
+}
+
+.myBids .row .col-3{
+    margin:auto;
+}
+.myBids .row img{
+    width: 140px;
+    height: 100px;
+
+    object-fit: cover;
+
+}
+
+#user-auctions{
+    width: 66vh;
+}
+
+
+.out1 #aside ul li:nth-child(1) button{
+    border-left: 4px solid #f1b642;
+}
+
+.out2 #aside ul li:nth-child(2) button{
+    border-left: 4px solid #f1b642;
+}
+
+.out3 #aside ul li:nth-child(3) button{
+    border-left: 4px solid #f1b642;
+}
+
+.out4 #aside ul li:nth-child(4) button{
+    border-left: 4px solid #f1b642;
+}
+
+.out5 #aside ul li:nth-child(5) button{
+    border-left: 4px solid #f1b642;
+}
+
+.out6 #aside ul li:nth-child(6) button{
+    border-left: 4px solid #f1b642;
+}
+
+.out7 #aside ul li:nth-child(7) button{
+    border-left: 4px solid #f1b642;
+}
+
+.infopp {
+    font-size: 20px;
+}
+
+.cor {
+    color: #f1b642;
+}
+
+.cor2 {
+    color: #606060;
+}
+
+.cor3 {
+    color: #1c1400;
+}
+
+.fi1 {
+    width: 88px;
+}
+
+.fii2 {
+    width: 112px;
+}
+.high {
+    border-bottom: 3px solid #f1b642;
+    font-weight: bold;
+}
+
+.high2 {
+    border-bottom: 3px solid #f1b642;
+    font-weight: bold;
+}
+
+.auctions {
+    display: none;
+}
+
+.endimg {
+    transition: transform .2s;
+}
+.endimg:hover {
+    transform: scale(1.04);
+}
+
+.rep {
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    padding: 0.36em;
+
+}
+
+.botao {
+    width: 90%;
+}
+
+.centro {
+    align-items: center;
+}
+
+.new_auc{
+    align-self: center;
+    margin-left: auto;
+}
+
+.uppic {
+    margin-bottom: 1.5em;
+    padding: 0.25rem 0.3em;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 1px 1px 6px #0000001c;
+    font-size: 14px;
+    background-color: #f8f8f8;
+}
+
+.bab {
+    width: 450px;
+}
+
+.cent {
+    margin: auto;
+    justify-content: center;
+}
+
+.xau {
+    margin-left: auto;
+}
+
+.rates {
+    justify-content: center;
+}
+
+.rating > input{
+    display: none;
+}
+
+.rating > label:before{
+    content: '\f005';
+    font-family: FontAwesome;
+    margin: 5px;
+    font-size: 1.5rem;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.rating > .half:before{
+    content: '\f089';
+    position: absolute;
+    cursor: pointer;
+}
+
+.subt {
+    justify-content: center;
+    margin: auto;
+}
+
+.rating > label{
+    color: #ddd;
+    float: right;
+    cursor: pointer;
+}
+
+.rating > input:checked ~ label,
+.rating:not(:checked) > label:hover,
+.rating:not(:checked) > label:hover ~ label{
+    color: #f1b642;
+}
+
+.rating > input:checked + label:hover,
+.rating > input:checked ~ label:hover,
+.rating > label:hover ~ input:checked ~ label,
+.rating > input:checked ~ label:hover ~ label{
+    color: #f1b642;
+}
+
+.txtt {
+    border-radius: 4px;
+    height:170px;
+    width:410px;
+    box-shadow: 1px 1px 6px #0000001c;
+}
+
+.txtt:focus {
+    outline: none;
+}
+
+.txtt {
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.gustavo {
+    align-items: center;
+    justify-content: center;
+}
+
+.laura {
+    margin-left: auto;
+}
+
+.laura u, .laura i {
+    color: red;
+}
